@@ -1,3 +1,10 @@
+// Arduino Uno SPI pin out 
+// CS: 10
+// MISO: 12
+// MOSI: 11
+// SCK: 13
+
+
 #include "pins_arduino.h"
 
 char buf [100];
